@@ -2,13 +2,13 @@
 
 ![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/d0879f7c-01a7-4dcb-b8fc-3c469da53cb4)
 
-##JSON 
+## JSON 
 
 1.*_JSON es un formato de texto que forma parte del sistema de JavaScript_*
   - _es un formato ligero de intercambio de datos_
     - los archivos JSON permiten obtener un código legible de almacenamiento y también son útiles para manipular la información de un programa a la hora de crear un software.
 
-##EJEMPLOS
+## EJEMPLOS
 ><sup> esto es un ejemplo de como se inserta un String en JSON</sup>
 
 {“Nombre”:“Joan”}
