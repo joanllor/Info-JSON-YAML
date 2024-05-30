@@ -14,5 +14,4 @@
 
 {“Nombre”:“Joan”}
 
-[JSON para principiantes](https://blog.hubspot.es/website/que-es-js![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/384e1be5-8285-4667-bfba-038e5f9e2030)
-on#:~:text=JSON%20es%20un%20formato%20de,una%20alternativa%20al%20lenguaje%20XML.)
+[JSON para principiantes](https://blog.hubspot.es/website/que-es-json#:~:text=JSON%20es%20un%20formato%20de,una%20alternativa%20al%20lenguaje%20XML.)
