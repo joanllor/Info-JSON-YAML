@@ -25,5 +25,11 @@
 
 
 
-## YMAL
+## YAML 
+![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/e0bea79d-a6c1-4cf0-8a88-25c4553dc956)
 
+1. *_YAML  es un lenguaje de serialización de datos que las personas pueden comprender y suele utilizarse en el diseño de archivos de configuración_*
+  -
+
+## EJEMPLOS
+><sup> esto es un ejemplo de un archivo YAML </sup>
