@@ -11,4 +11,4 @@
 
 {“Nombre”:“Joan”}
 
-https://blog.hubspot.es/website/que-es-json#:~:text=JSON%20es%20un%20formato%20de,una%20alternativa%20al%20lenguaje%20XML.
+[GitHub Pages](https://blog.hubspot.es/website/que-es-json#:~:text=JSON%20es%20un%20formato%20de,una%20alternativa%20al%20lenguaje%20XML.)
