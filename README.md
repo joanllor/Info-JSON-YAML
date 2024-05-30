@@ -37,3 +37,6 @@
  #Comentario: esta es una lista de supermercado que utiliza YAML 
 
  [ { "nombre": "Joan"} ]
+
+ [¿Que es YAML?](https://www.redhat.com/es/topics/automation/what-is-yaml#ejemplo-de-sintaxis)
+
