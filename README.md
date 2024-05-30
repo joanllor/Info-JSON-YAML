@@ -7,10 +7,12 @@
 1.*_JSON es un formato de texto que forma parte del sistema de JavaScript_*
   - _es un formato ligero de intercambio de datos_
     - los archivos JSON permiten obtener un código legible de almacenamiento y también son útiles para manipular la información de un programa a la hora de crear un software.
+    - 
 
 ## EJEMPLOS
 ><sup> esto es un ejemplo de como se inserta un String en JSON</sup>
 
 {“Nombre”:“Joan”}
 
-[JSON para principiantes](https://blog.hubspot.es/website/que-es-json#:~:text=JSON%20es%20un%20formato%20de,una%20alternativa%20al%20lenguaje%20XML.)
+[JSON para principiantes](https://blog.hubspot.es/website/que-es-js![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/384e1be5-8285-4667-bfba-038e5f9e2030)
+on#:~:text=JSON%20es%20un%20formato%20de,una%20alternativa%20al%20lenguaje%20XML.)
