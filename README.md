@@ -11,7 +11,7 @@
     - JSON es usado para crear diseños de paginas web
 
 ## EJEMPLOS
-><sup> esto es un ejemplo de como se inserta un String en JSON</sup>
+><sup> esto es un ejemplo de como se inserta un String en JSON</sup> :shipit:
 
 {“Nombre”:“Joan”}
 
