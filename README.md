@@ -33,3 +33,7 @@
 
 ## EJEMPLOS
 ><sup> esto es un ejemplo de un archivo YAML </sup>
+
+ #Comentario: esta es una lista de supermercado que utiliza YAML 
+
+ [ { "nombre": "Joan"} ]
