@@ -2,9 +2,9 @@
 
 ## Indice de contenidos
 
-[JSON](https://github.com/joanllor/Info-JSON-YAML/edit/main/README.md#json)
+[JSON](#JSON)
 
-[YAML](https://github.com/joanllor/Info-JSON-YAML/edit/main/README.md#ymal)
+[YAML](#YAML)
 
 ## JSON 
 ![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/d0879f7c-01a7-4dcb-b8fc-3c469da53cb4)
