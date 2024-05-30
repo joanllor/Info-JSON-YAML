@@ -1,7 +1,8 @@
 # Info-JSON-YAML
 
-##JSON !![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/d0879f7c-01a7-4dcb-b8fc-3c469da53cb4)
+![image](https://github.com/joanllor/Info-JSON-YAML/assets/133098187/d0879f7c-01a7-4dcb-b8fc-3c469da53cb4)
 
+##JSON 
 
 1.*_JSON es un formato de texto que forma parte del sistema de JavaScript_*
   - _es un formato ligero de intercambio de datos_
