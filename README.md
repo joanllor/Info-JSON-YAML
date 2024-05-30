@@ -7,7 +7,8 @@
 1.*_JSON es un formato de texto que forma parte del sistema de JavaScript_*
   - _es un formato ligero de intercambio de datos_
     - los archivos JSON permiten obtener un código legible de almacenamiento y también son útiles para manipular la información de un programa a la hora de crear un software.
-    - 
+    - los archivos de este formato suelen terminar con .json
+    - JSON es usado para crear diseños de paginas web
 
 ## EJEMPLOS
 ><sup> esto es un ejemplo de como se inserta un String en JSON</sup>
